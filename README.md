@@ -16,11 +16,9 @@ Technologies Used:
 
  
 Installation & Usage:
-
-To view the project locally, clone the repository and open the Netflix.html file in your web browser:
-
-https://github.com/shinigl/Netflix-Clone/
-
+* To view the project locally, clone the repository.
+* Then, save the necessities inside a folder.
+* Open the Netflix.html file in your web browser.
 
 Contributing:
 Contributions are welcome! Feel free to open issues, submit pull requests, or provide feedback to help improve the project.
